@@ -1,0 +1,5 @@
+- 👋 Hi, I’m João Ornellas
+- 👀 I’m interested in robotics and computer science
+- 🌱 I’m currently learning to become a programmer em C and Python
+- 💞️ I’m looking to collaborate on robotic and mechanical projects
+- 📫 To find me search by URL : https://linktr.ee/Joao_Ornellas
