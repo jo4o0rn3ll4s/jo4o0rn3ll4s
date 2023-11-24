@@ -13,7 +13,6 @@ Fica aqui em registro meu agradecimento a ambos pois se não fosse por eles, nã
 
 ### 🔗Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/joao_adriano_ornelas)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E94D5F)](https://www.instagram.com/jo4o_0rn3ll4s/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jo%C3%A3o-ornellas/)
 
