@@ -32,13 +32,13 @@ Fica aqui em registro meu agradecimento a ambos pois se não fosse por eles, nã
 - Soft skills
 
     ![Kanban](https://img.shields.io/badge/kanban-you?style=for-the-badge&color=000000)
-    ![Kanban](https://img.shields.io/badge/gestão_de_projetos-you?style=for-the-badge&color=000000)
-    ![Kanban](https://img.shields.io/badge/Comunicação-you?style=for-the-badge&color=000000)
-    ![Kanban](https://img.shields.io/badge/Trabalho_em_equipe-you?style=for-the-badge&color=000000)
+    ![Gestão de projetos](https://img.shields.io/badge/gestão_de_projetos-you?style=for-the-badge&color=000000)
+    ![Comunicação](https://img.shields.io/badge/Comunicação-you?style=for-the-badge&color=000000)
+    ![Trabalho em equipe](https://img.shields.io/badge/Trabalho_em_equipe-you?style=for-the-badge&color=000000)
 
 ### Meu GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jo4o0rn3ll4s&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jo4o0rn3ll4s&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&inlcude_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jo4o0rn3ll4s&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ---
